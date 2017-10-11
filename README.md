@@ -1,2 +1,4 @@
 # Japege
-Student GeekChallenge 4th place winner
+Student GeekChallenge 3rd place winner.
+
+https://japege.herokuapp.com/
